@@ -120,13 +120,13 @@ TCP / 3306
 ### 問4 以下のスクリーンショットを取得して提出せよ
 
 1. blogの管理画面の[設定]
-![Blog Image 1](../Screenshot From 2026-08-17 16-38-57.png)
+![Blog Image 1](s24005/Screenshot From 2026-08-17 16-38-57.png)
 
 2. WebサーバのIP設定(ip a)画面
-![Web Image 1](../Screenshot From 2026-08-17 16-45-06.png)
+![Web Image 1](s24005/Screenshot From 2026-08-17 16-45-06.png)
 
 3. DBサーバのIP設定画面(AWS RDSの場合はその設定画面)
-![Db Image 1](../Screenshot From 2026-08-17 16-44-13.png)
+![Db Image 1](s24005/Screenshot From 2026-08-17 16-44-13.png)
 
 ### 問5 この講義を受けて学んだことを200字程度にまとめて記せ
 
