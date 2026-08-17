@@ -26,9 +26,9 @@ flash previleges;
 ### 問1 踏み台サーバ，Webサーバ，DBサーバのLocalIPアドレスを記せ(RDSの場合はendpoint)
 
 ```md
-踏み台サーバIP:[192.168.20.70/26]
-WebサーバIP:  [192.168.20.80/26]
-DBサーバIP:   [assignmentdb.ch0084y66nut.ap-northeast-1.rds.amazonaws.com]
+踏み台サーバIP:[ここに記入]
+WebサーバIP:  [ここに記入]
+DBサーバIP:   [ここに記入]
 ```
 
 ### 問2 Public, Private ネットワークのルーティングテーブルをすべて記せ
@@ -36,15 +36,14 @@ DBサーバIP:   [assignmentdb.ch0084y66nut.ap-northeast-1.rds.amazonaws.com]
 2.1 Publicネットワークのルートテーブルを記せ
 
 ```md
-0.0.0.0/0
-192.168.20.0/24
+ここに情報を記入
 
 ```
 
 2.2 Privateネットワークのルートテーブルを記せ
 
 ```md
-192.168.20.0/24
+ここに情報を記入
 
 ```
 
@@ -53,26 +52,24 @@ DBサーバIP:   [assignmentdb.ch0084y66nut.ap-northeast-1.rds.amazonaws.com]
 3.1 踏み台サーバの許可ルール (ネットワーク範囲, ポート番号)
 
 ```md
+ここに情報を記入
 
-0.0.0.0/0,22
 
 ```
 
 3.2 Webサーバの許可ルール (ネットワーク範囲, ポート番号)
 
 ```md
+ここに情報を記入
 
-192.168.20.70/32,22
-
-0.0.0.0/0,80
 
 ```
 
 3.3 DBサーバの許可ルール (ネットワーク範囲, ポート番号)
 
 ```md
+ここに情報を記入
 
-192.168.20.80/32,3306
 
 ```
 
@@ -85,8 +82,7 @@ DBサーバIP:   [assignmentdb.ch0084y66nut.ap-northeast-1.rds.amazonaws.com]
 ### 問5 この講義を受けて学んだことを200字程度にまとめて記せ
 
 ```md
-ここに記述
 
-
+IPアドレスの分割の話が自分には丁度いい難易度で楽しかったです。
 
 ```
