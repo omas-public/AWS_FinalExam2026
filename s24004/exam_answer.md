@@ -82,6 +82,7 @@ DBサーバIP:   192.168.20.139
 2. WebサーバのIP設定(ip a)画面
 ![web](./imgs/web.png)
 3. DBサーバのIP設定画面(AWS RDSの場合はその設定画面)
+![db](./imgs/db2.png)
 ![db](./imgs/db.png)
 
 ### 問5 この講義を受けて学んだことを200字程度にまとめて記せ
