@@ -26,8 +26,8 @@ flash previleges;
 ### 問1 踏み台サーバ，Webサーバ，DBサーバのLocalIPアドレスを記せ(RDSの場合はendpoint)
 
 ```md
-踏み台サーバIP:[ここに記入]
-WebサーバIP:  [ここに記入]
+踏み台サーバIP:192.168.20.110
+WebサーバIP:  192.168.20.114
 DBサーバIP:   [ここに記入]
 ```
 
